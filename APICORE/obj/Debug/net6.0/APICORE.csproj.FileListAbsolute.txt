@@ -1,0 +1,104 @@
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\appsettings.Development.json
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\appsettings.json
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\APICORE.exe
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\APICORE.deps.json
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\APICORE.runtimeconfig.json
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\APICORE.dll
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\APICORE.pdb
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cursos 2022\Programación II\APICORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\APICORE.csproj.AssemblyReference.cache
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\APICORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\APICORE.AssemblyInfoInputs.cache
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\APICORE.AssemblyInfo.cs
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\APICORE.csproj.CoreCompileInputs.cache
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\APICORE.MvcApplicationPartsAssemblyInfo.cs
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\APICORE.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\staticwebassets.build.json
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\staticwebassets.development.json
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\scopedcss\bundle\APICORE.styles.css
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\APICORE.csproj.CopyComplete
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\APICORE.dll
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\refint\APICORE.dll
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\APICORE.pdb
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\APICORE.genruntimeconfig.cache
+D:\Cursos 2022\Programación II\APICORE\obj\Debug\net6.0\ref\APICORE.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\appsettings.json
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\APICORE.exe
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\APICORE.deps.json
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\APICORE.runtimeconfig.json
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\APICORE.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\APICORE.pdb
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\APICORE.csproj.AssemblyReference.cache
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\APICORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\APICORE.AssemblyInfoInputs.cache
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\APICORE.AssemblyInfo.cs
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\APICORE.csproj.CoreCompileInputs.cache
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\APICORE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\APICORE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\staticwebassets\msbuild.APICORE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\staticwebassets\msbuild.build.APICORE.props
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APICORE.props
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APICORE.props
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\scopedcss\bundle\APICORE.styles.css
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\APICORE.csproj.CopyComplete
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\APICORE.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\refint\APICORE.dll
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\APICORE.pdb
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\APICORE.genruntimeconfig.cache
+C:\Users\VIP\Downloads\Apicore\APICORE\obj\Debug\net6.0\ref\APICORE.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\appsettings.json
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\APICORE.exe
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\APICORE.deps.json
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\APICORE.runtimeconfig.json
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\APICORE.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\APICORE.pdb
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\APICORE.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\APICORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\APICORE.AssemblyInfoInputs.cache
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\APICORE.AssemblyInfo.cs
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\APICORE.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\APICORE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\APICORE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\scopedcss\bundle\APICORE.styles.css
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\APICORE.csproj.CopyComplete
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\APICORE.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\refint\APICORE.dll
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\APICORE.pdb
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\APICORE.genruntimeconfig.cache
+C:\Users\Developer\Documents\Vs Code\Asignación API Productos\Asignación API Productos\APICORE\obj\Debug\net6.0\ref\APICORE.dll
