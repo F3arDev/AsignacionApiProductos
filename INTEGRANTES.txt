@@ -1,3 +1,11 @@
 Fredd Enderson Aviléz Romero
 Mario Andrés Zeledón García
 Malikha Solanyi Artola Duarte
+
+workstation id=ApiCoreF3ar.mssql.somee.com;
+packet size=4096;
+user id=F3arDev_SQLLogin_1;
+pwd=smp2yobh1v;
+data source=ApiCoreF3ar.mssql.somee.com;
+persist security info=False;
+initial catalog=ApiCoreF3ar

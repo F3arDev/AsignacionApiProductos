@@ -133,8 +133,8 @@ namespace APICORE.Controllers
                 using (var conexion = new SqlConnection(cadenaSQl))
                 {
                     conexion.Open();
-                    var cmd = new SqlCommand("   delete from producto" +
-                        "                        where codProducto = @Param1", conexion);
+                    var cmd = new SqlCommand("delete from producto" +
+                        "                     where codProducto = @Param1", conexion);
                     cmd.Parameters.AddWithValue("@Param1", codProducto);
                     cmd.CommandType = CommandType.Text;
                     cmd.ExecuteNonQuery();
@@ -159,10 +159,10 @@ namespace APICORE.Controllers
                 {
 
                     conexion.Open();
-                    var cmd = new SqlCommand("   Update producto set nombreProducto = @Param2, precioVenta = @Param3," +
-                        "                        costoUnitatio = @param4, unidadesExistente = @param5, cantidadMinima = @param6, cantidadMaxima = @param7, Estado = @param8" +
-                        "                        where codProducto = @Param1", conexion);
-
+                    var cmd = new SqlCommand(   "Update producto set nombreProducto = @Param2, precioVenta = @Param3," +
+                                                "costoUnitatio = @param4, unidadesExistente = @param5, cantidadMinima = @param6, cantidadMaxima = @param7, Estado = @param8" +
+                                                "where codProducto = @Param1", conexion);
+                                                
                     cmd.Parameters.AddWithValue("@Param1", c.codProducto);
                     cmd.Parameters.AddWithValue("@Param2", c.nombreProducto);
                     cmd.Parameters.AddWithValue("@Param3", c.precioVenta);
