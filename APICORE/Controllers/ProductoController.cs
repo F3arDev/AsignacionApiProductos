@@ -3,10 +3,12 @@ using Microsoft.AspNetCore.Mvc;
 using APICORE.Models;
 using System.Data.SqlClient;
 using System.Data;
+using Microsoft.AspNetCore.Cors;
 
 
 namespace APICORE.Controllers
 {
+    [EnableCors("ReglasCors")]
     [Route("api/[controller]")]
     [ApiController]
     public class ProductoController : ControllerBase

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+		integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">
+	<link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+	<link href="https://cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css" rel="stylesheet">
+	<title>Facturacion de Productos</title>
+</head>
+
+<body>
+	<div class="container my-5">
+
+		<h3>Sistema de Facturacion de productos</h3>
+		<div class="row justify-content-center align-items-center g-2">
+			<div class="col">
+				<nav>
+					<div class="nav nav-tabs" id="nav-tab" role="tablist">
+						<button class="nav-link active" id="nav-Facturacion-tab" data-bs-toggle="tab"
+							data-bs-target="#nav-Facturacion" type="button" role="tab" aria-controls="nav-Facturacion"
+							aria-selected="true">Facturacion</button>
+						<button class="nav-link" id="nav-Productos-tab" data-bs-toggle="tab"
+							data-bs-target="#nav-Productos" type="button" role="tab" aria-controls="nav-Productos"
+							aria-selected="false">Productos</button>
+					</div>
+				</nav>
+
+				<div class="tab-content" id="nav-tabContent">
+					<!-- Factura -->
+					<div class="tab-pane fade show active" id="nav-Facturacion" role="tabpanel"
+						aria-labelledby="nav-Facturacion-tab" tabindex="0">
+						<div class="row justify-content-center align-items-center g-2 my-3">
+							<div class="col">
+								<div class="btn-group" role="group" aria-label="Basic mixed styles example">
+									<button id="btnCrearFactura" type="button" class="btn btn-primary">Crear Nueva
+										Factura</button>
+								</div>
+							</div>
+						</div>
+						<div class="row justify-content-center align-items-center g-2">
+							<div class="col">
+								<table id="tbl-facturas" class="table table-striped">
+								</table>
+
+								<div style="display: none;">
+									<!-- Agregar - Factura - Formulario -->
+									<form id="form-Identificacion">
+										<div class="row mb-3">
+											<label for="input-CodIdentificacion"
+												class="col-sm-3 col-form-label">CodIdentificacion</label>
+											<div class="col-sm-9">
+												<input disabled type="text" class="form-control"
+													id="input-CodIdentificacion">
+											</div>
+										</div>
+
+										<div class="row mb-3">
+											<label for="input-DescripIdentificacion"
+												class="col-sm-3 col-form-label">Descripcion</label>
+											<div class="col-sm-9">
+												<input type="text" class="form-control"
+													id="input-DescripIdentificacion">
+											</div>
+										</div>
+									</form>
+								</div>
+							</div>
+
+
+
+						</div>
+						<!-- Producto -->
+						<div class="tab-pane fade" id="nav-Productos" role="tabpanel"
+							aria-labelledby="nav-Productos-tab" tabindex="0">
+							<div class="row justify-content-center align-items-center g-2 my-3">
+								<div class="col">
+									<div class="btn-group" role="group" aria-label="Basic mixed styles example">
+										<button type="button" class="btn btn-primary">Agregar</button>
+										<button type="button" class="btn btn-warning">Editar</button>
+										<button type="button" class="btn btn-success">Eliminar</button>
+									</div>
+								</div>
+							</div>
+							<div class="row justify-content-center align-items-center g-2">
+								<div class="col">
+									<table id="tbl-Productos">
+
+									</table>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+			</div>
+
+
+
+
+
+
+
+			<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+				integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+				crossorigin="anonymous"></script>
+			<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+			<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+			<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+			<script src="https://cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/alertify.min.js"></script>
+			<script src="./main.js"></script>
+
+</body>
+
+</html>
