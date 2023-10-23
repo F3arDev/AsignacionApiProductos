@@ -48,7 +48,8 @@ namespace APICORE.Controllers
                     }
                 }
                 return StatusCode(StatusCodes.Status200OK, new { mensaje = "Ok", response = lista });
-            } catch (Exception error)
+            }
+            catch (Exception error)
             {
                 return StatusCode(StatusCodes.Status500InternalServerError, new { mensaje = error.Message, respuesta = lista });
             }
@@ -152,17 +153,15 @@ namespace APICORE.Controllers
         [Route("Actualizar/{codProducto:int}")]
         public IActionResult Editar([FromBody] producto c)
         {
-
-            try
+            if (c.codProducto != null)
             {
                 using (var conexion = new SqlConnection(cadenaSQl))
                 {
-
                     conexion.Open();
-                    var cmd = new SqlCommand(   "Update producto set nombreProducto = @Param2, precioVenta = @Param3," +
-                                                "costoUnitatio = @param4, unidadesExistente = @param5, cantidadMinima = @param6, cantidadMaxima = @param7, Estado = @param8" +
-                                                "where codProducto = @Param1", conexion);
-                                                
+                    var cmd = new SqlCommand(
+                        "Update producto set nombreProducto = @Param2, precioVenta = @Param3," +
+                        "costoUnitatio = @param4, unidadesExistente = @param5, cantidadMinima = @param6, cantidadMaxima = @param7, Estado = @param8 " +
+                        "where codProducto = @Param1", conexion);
                     cmd.Parameters.AddWithValue("@Param1", c.codProducto);
                     cmd.Parameters.AddWithValue("@Param2", c.nombreProducto);
                     cmd.Parameters.AddWithValue("@Param3", c.precioVenta);
@@ -172,20 +171,16 @@ namespace APICORE.Controllers
                     cmd.Parameters.AddWithValue("@Param7", c.cantidadMaxima);
                     cmd.Parameters.AddWithValue("@Param8", c.Estado);
 
-                    //cmd.Parameters.AddWithValue("@Param1", c.Categoria is null ? DBNull.Value : c.Categoria);
-                    //cmd.Parameters.AddWithValue("@Param2", c.nombreCliente is null ? DBNull.Value : c.nombreCliente);
-                    //cmd.Parameters.AddWithValue("@Param3", c.apellidoCliente is null ? DBNull.Value : c.apellidoCliente);
-                    //cmd.Parameters.AddWithValue("@Param4", c.IdCliente == 0 ? DBNull.Value : c.IdCliente);
-                    
                     cmd.CommandType = CommandType.Text;
                     cmd.ExecuteNonQuery();
                 }
                 return StatusCode(StatusCodes.Status200OK, new { mensaje = "Editado" });
             }
-            catch (Exception error)
+            else
             {
-                return StatusCode(StatusCodes.Status500InternalServerError, new { mensaje = error.Message });
+                return StatusCode(StatusCodes.Status400BadRequest, new { mensaje = "El valor de codProducto no puede ser nulo." });
             }
+
         }
     }
 }
