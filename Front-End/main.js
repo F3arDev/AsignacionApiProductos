@@ -118,7 +118,6 @@ $(document).ready(function () {
 			tblDetFactura.clear();
 			await tblDetFactura.rows.add(dataDetFactura).draw();
 		});
-
 	});
 
 	let addProducto = $('#addProducto')[0];
